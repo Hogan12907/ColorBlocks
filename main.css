@@ -1,0 +1,13 @@
+
+
+main > div {
+  border: 2px black solid;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  margin: 10px;
+}
+
+main {
+  margin: 20px;
+}
