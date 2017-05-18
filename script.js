@@ -16,6 +16,7 @@ function rgbValue() {
 
 var makeBlack = function() {
   $(this).css('background-color', 'black');
+  $(this).children().css('color', 'white');
   //console.log("Made black");
 };
 
