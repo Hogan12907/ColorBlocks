@@ -18,6 +18,7 @@ button {
   background-color: #ffffff;
   font-family: open sans;
   font-size: 16pt;
+  transition-duration: 200ms
 }
 
 button:hover {
