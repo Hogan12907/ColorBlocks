@@ -31,7 +31,7 @@ var addBox = function() {
 };
 
 function onReady() {
-  //$('main').on("click", 'div', makeBlack);
+  $('main').on("click", 'div', makeBlack);
   $('button').on("click", addBox);
   $('main').on('click', 'p', clickX);
 }
